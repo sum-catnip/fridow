@@ -1,0 +1,11 @@
+[project]
+name = "fridow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "frida>=16.5.9",
+    "textual>=0.89.1",
+    "toml>=0.10.2",
+]

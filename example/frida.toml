@@ -1,0 +1,8 @@
+[commands]
+[commands.main]
+cmd = "nodepad.exe"
+
+[modules]
+[modules.test]
+entry = "index.ts"
+enabled = true
